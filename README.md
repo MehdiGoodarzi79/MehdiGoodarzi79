@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">Electrical Engineering BSc (Communication Branch) | Passionate about Programming and Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdigoodarzi79&label=Profile%20views&color=0e75b6&style=flat" alt="mehdigoodarzi79" /> </p>
-
 - 🌱 I’m currently learning **Python, Cpp and MATLAB**
 
 - 📫 How to reach me **MahdiGoodarzi137979@gmail.com**
